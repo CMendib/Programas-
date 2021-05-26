@@ -5,10 +5,10 @@ int main()
         int hora, minutos, segundos;
         printf("\n Introduce las horas");
         scanf("%d", hora);
-        int hora, minutos, segundos;
+        int hora, minutos, segundos;  //AQUI
         printf("\n Introduce las minutos");
         scanf("%d", minutos);
-        int hora, minutos, segundos;
+        int hora, minutos, segundos; //AQUI
         printf("\n Introduce las segundos");
         scanf("%d", segundos);
 
